@@ -25,11 +25,13 @@ h2{
 	min-height: 150px;
 	min-width: 300px;
 	border: dashed 5px grey ;
+	vertical-align: top;
 }
 .column-container .column ul {
   list-style-type: none;
   padding: 0;
   display: block;
+  min-height: 100px;
   
 }
 .column {
