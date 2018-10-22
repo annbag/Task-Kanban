@@ -1,3 +1,4 @@
-# zadanie-11-6
+# Task-Kanban
+Project created with using HTML, CSS, RWD and jQuery.
 
-https://annbag.github.io/zadanie-11-6/.
+https://annbag.github.io/Task-Kanban
